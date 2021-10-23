@@ -62,7 +62,13 @@ header nav ul li {
     background-position: center;
 }
 
-/* Hero images Float */
+/* The rows in the center of the page Content section */
+.content-section {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -73,15 +79,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-
-/* The rows in the center of the page Content section */
-.content-section {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-.content-section div {
+.content-section figure {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,7 +109,7 @@ header nav ul li {
     background-color: #2589bd;
 }
 
-.benefits-section div {
+.benefits-section figure {
     margin-bottom: 32px;
     color: #ffffff;
 }
