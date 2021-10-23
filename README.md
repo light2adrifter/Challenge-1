@@ -6,5 +6,5 @@ This projects aim was to take an excisting codebase and refactor it to improve t
 
 Reordered and consolidated CSS code to optimize page loading.
 Adjusted html to reflect changes in CSS while adding additional semantic elements, checking on code to make sure links work.
-![Original html](https://github.com/light2adrifter/Challenge-1/tree/main/readme-imgs/before-css.pngraw=true "Original html snippet")
-![Original csss](https://https://github.com/light2adrifter/Challenge-1/tree/main/readme-imgs/image.jpg?raw=true "Original css snippet")
+![Original html](readme-imgs/before-css.png "Original html snippet")
+![Original csss](/readme-imgs/before-css.png  "Original css snippet")
